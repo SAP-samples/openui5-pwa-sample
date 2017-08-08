@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ui5todo
+   memory: 64M
+   command: node --use_strict server.js
