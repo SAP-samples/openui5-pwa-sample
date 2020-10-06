@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/openui5-pwa-sample)](https://api.reuse.software/info/github.com/SAP-samples/openui5-pwa-sample)
+
 # openui5-pwa-sample
 
 You can build [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) with any HTML/JS framework and OpenUI5 is not an exception. This example shows how to easily build a simple PWA with ```sap.m``` library. 
